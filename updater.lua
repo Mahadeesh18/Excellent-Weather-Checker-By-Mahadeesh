@@ -61,9 +61,9 @@ end
 
 updater.config = {
   CURRENT_VERSION = "1.0",
-  VERSION_URL = "https://raw.githubusercontent.com/mahadeesh18-alt/Excellent-Weather-Checker-By-Mahadeesh/main/virgin.txt",
-  WHATSNEW_URL = "https://raw.githubusercontent.com/mahadeesh18-alt/Excellent-Weather-Checker-By-Mahadeesh/main/what's%20new.txt",
-  ZIP_URL = "https://github.com/mahadeesh18-alt/Excellent-Weather-Checker-By-Mahadeesh/archive/refs/heads/main.zip",
+  VERSION_URL = "https://raw.githubusercontent.com/Mahadeesh18/Excellent-Weather-Checker-By-Mahadeesh/main/virgin.txt",
+  WHATSNEW_URL = "https://raw.githubusercontent.com/Mahadeesh18/Excellent-Weather-Checker-By-Mahadeesh/main/what's%20new.txt",
+  ZIP_URL = "https://github.com/Mahadeesh18/Excellent-Weather-Checker-By-Mahadeesh/archive/refs/heads/main.zip",
   TARGET_PATH = "/storage/self/primary/解说/Plugins/Excellent Weather Checker By Mahadeesh/",
   MAIN_FILE = "main.lua",
   UPDATER_FILE = "updater.lua",
